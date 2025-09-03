@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetalDto.cs",
               "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetalDto.cs",
               "RelativeToolTip": "Northwind.Sales.Entities\\Dtos\\CreateOrder\\CreateOrderDetalDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T17:29:58.291Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Northwind.Sales.Entities",
+              "Title": "Northwind.Sales.Entities.csproj",
               "DocumentMoniker": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
               "RelativeDocumentMoniker": "Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
               "ToolTip": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
               "RelativeToolTip": "Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T17:21:53.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T17:21:53.461Z"
             }
           ]
         }
