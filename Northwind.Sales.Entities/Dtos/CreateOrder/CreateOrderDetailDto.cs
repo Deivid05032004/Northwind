@@ -2,15 +2,14 @@
 namespace Northwind.Sales.Entities.Dtos.CreateOrder;
 
 #region Primary Constructors c# 12
-public class CreateOrderDetailDto
-{
+
     public class CreateOrderDetalDto(int productId, decimal unitPrice, short quantity)
     {
         public int ProductId => productId;
         public decimal UnitPrice => unitPrice;
         public short Quantity => quantity;
     }
-} 
+
 #endregion
 
 #region c# 2.0
