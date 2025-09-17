@@ -1,0 +1,16 @@
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.deps.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\Northwind.Sales.Entities.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\Northwind.Sales.Entities.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfo.cs
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.sourcelink.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWin.430E2971.Up2Date
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.BusinessObjects.dll

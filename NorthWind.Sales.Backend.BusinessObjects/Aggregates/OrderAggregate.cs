@@ -1,7 +1,7 @@
 ﻿
 using Northwind.Sales.Entities.Dtos.CreateOrder;
-using NorthWind.Sales.Backend.BusinessObjects.POCOEntities;
-using NorthWind.Sales.Backend.BusinessObjects.ValueObjects;
+//using NorthWind.Sales.Backend.BusinessObjects.POCOEntities;
+//using NorthWind.Sales.Backend.BusinessObjects.ValueObjects;
 using System.Xml.Serialization;
 
 namespace NorthWind.Sales.Backend.BusinessObjects.Aggregates;
@@ -45,6 +45,8 @@ public class OrderAggregate : Order
 
         foreach (var item in orderDto.OrderDetails)
         {
+            //Si en la orden se especifica un producto que ya existe en el detalle, se debe actualizar la cantidad registrada de ese producto
+            //Solo se agregara un producto con ese identificador y la cantidad se sumara a la cantidad del mismo producto
             orderAggregate.AddDetail(item.ProductId, item.UnitPrice, item.Quantity);
         }
         return orderAggregate;
