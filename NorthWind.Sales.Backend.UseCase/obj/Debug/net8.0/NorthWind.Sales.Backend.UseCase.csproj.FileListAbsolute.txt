@@ -10,3 +10,9 @@ C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\
 C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCase.dll
 C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCase.pdb
 C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCase.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\bin\Debug\net8.0\Northwind.Sales.Entities.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\bin\Debug\net8.0\Northwind.Sales.Entities.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCase.csproj.AssemblyReference.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\NorthWind.Sales.Backend.UseCase\obj\Debug\net8.0\NorthWin.3CDADEBF.Up2Date

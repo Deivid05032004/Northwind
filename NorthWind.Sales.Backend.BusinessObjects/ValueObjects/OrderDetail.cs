@@ -14,7 +14,7 @@ public class OrderDetail (int productId, decimal unitPrice, short quantity)
     //public int ProductId { get; } = productId;
     //public decimal UnitPrice { get; } = unitPrice;
     //public short Quantity { get; } = quantity;
-    public int PoductId => productId;
+    public int ProductId => productId;
     public decimal UnitPrice => unitPrice;
     public short Quantity => quantity;
 

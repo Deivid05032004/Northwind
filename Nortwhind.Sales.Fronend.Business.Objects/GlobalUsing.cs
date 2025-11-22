@@ -1,0 +1,1 @@
+﻿global using Northwind.Sales.Entities.Dtos.CreateOrder;

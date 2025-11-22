@@ -24,7 +24,7 @@ public class OrderAggregate : Order
     //con el musmo identificador
     public void AddDetail(int productId, decimal unitPrice, short quantity)
     {
-        var ExistingOrderDetail = orderDetailsFiedl.FirstOrDefault(o => o.PoductId == productId);
+        var ExistingOrderDetail = orderDetailsFiedl.FirstOrDefault(o => o.ProductId == productId);
         if (ExistingOrderDetail != default) 
         {
             quantity += ExistingOrderDetail.Quantity;

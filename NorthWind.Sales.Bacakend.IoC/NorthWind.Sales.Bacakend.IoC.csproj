@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthWind.Sales.Backend.Controllers\NorthWind.Sales.Backend.Controllers.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.DataContext.EFCore\NorthWind.Sales.Backend.DataContext.EFCore.csproj" />
+    <ProjectReference Include="..\Northwind.Sales.Backend.Repositories\Northwind.Sales.Backend.Repositories.csproj" />
+    <ProjectReference Include="..\NorthWind.Sales.Backend.UseCase\NorthWind.Sales.Backend.UseCase.csproj" />
+    <ProjectReference Include="..\NortWind.Sales.Backend.Presenters\NortWind.Sales.Backend.Presenters.csproj" />
+  </ItemGroup>
+
+</Project>

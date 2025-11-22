@@ -1,0 +1,689 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\NorthWind.Sales.Bacakend.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\NorthWind.Sales.Bacakend.IoC.csproj",
+        "projectName": "NorthWind.Sales.Bacakend.IoC",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\NorthWind.Sales.Bacakend.IoC.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj"
+              },
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj"
+              },
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj"
+              },
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\NorthWind.Sales.Backend.UseCase.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\NorthWind.Sales.Backend.UseCase.csproj"
+              },
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\NortWind.Sales.Backend.Presenters.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\NortWind.Sales.Backend.Presenters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "projectName": "NorthWind.Sales.Backend.BusinessObjects",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+        "projectName": "NorthWind.Sales.Backend.Controllers",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\NorthWind.Sales.Backend.Controllers.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.app": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+        "projectName": "NorthWind.Sales.Backend.DataContext.EFCore",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\NorthWind.Sales.Backend.DataContext.EFCore.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.DataContext.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+        "projectName": "Northwind.Sales.Backend.Repositories",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\NorthWind.Sales.Backend.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\NorthWind.Sales.Backend.UseCase.csproj",
+        "projectName": "NorthWind.Sales.Backend.UseCase",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\NorthWind.Sales.Backend.UseCase.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+        "projectName": "Northwind.Sales.Entities",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\Northwind.Sales.Entities.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj",
+        "projectName": "NorthWind.Sales.WebApi",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\NorthWind.Sales.Bacakend.IoC.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Bacakend.IoC\\NorthWind.Sales.Bacakend.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\NortWind.Sales.Backend.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\NortWind.Sales.Backend.Presenters.csproj",
+        "projectName": "NortWind.Sales.Backend.Presenters",
+        "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\NortWind.Sales.Backend.Presenters.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NortWind.Sales.Backend.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj": {
+                "projectPath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

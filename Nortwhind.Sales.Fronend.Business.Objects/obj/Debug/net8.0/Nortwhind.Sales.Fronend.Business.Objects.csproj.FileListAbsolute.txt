@@ -1,0 +1,16 @@
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\bin\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.deps.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\bin\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\bin\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\bin\Debug\net8.0\Northwind.Sales.Entities.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\bin\Debug\net8.0\Northwind.Sales.Entities.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.csproj.AssemblyReference.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.AssemblyInfoInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.AssemblyInfo.cs
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.sourcelink.json
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhin.C3C6DF01.Up2Date
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\refint\Nortwhind.Sales.Fronend.Business.Objects.dll
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\Nortwhind.Sales.Fronend.Business.Objects.pdb
+C:\Users\MY PC\Documents\Tecnologia y Desarrollo Web\Programas en Visual Studio\Northwind\Nortwhind.Sales.Fronend.Business.Objects\obj\Debug\net8.0\ref\Nortwhind.Sales.Fronend.Business.Objects.dll

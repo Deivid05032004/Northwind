@@ -13,7 +13,7 @@ public static class DependencyContainer
     //  Una tecnica para facilitar el registro de dependencias es crear una CLASE estatica que 
     //  exponga (tenga) un metodo de EXTENCION que tambien sea estatico  de tipo IServiceCollection
     // donde se deben registrar todas las dependencias (servicios) que se requieran en la aplicacion.
-    public static IServiceCollection AddUseCases(this IServiceCollection services)
+    public static IServiceCollection AddUseCasesServices(this IServiceCollection services)
     {
         //Inyeccion de dependencias
 

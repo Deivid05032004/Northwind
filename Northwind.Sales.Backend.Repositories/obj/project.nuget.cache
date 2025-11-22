@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "82QgahJL9z8=",
+  "dgSpecHash": "NKJhDh8+C8U=",
   "success": true,
   "projectFilePath": "C:\\Users\\MY PC\\Documents\\Tecnologia y Desarrollo Web\\Programas en Visual Studio\\Northwind\\Northwind.Sales.Backend.Repositories\\Northwind.Sales.Backend.Repositories.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MY PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
